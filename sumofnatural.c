@@ -1,4 +1,6 @@
 #include<stdio.h>
+int addition(int *ptra,int *ptrb,int *ptrc);
+#include<stdio.h>
 
 
 
